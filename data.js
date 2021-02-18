@@ -339,6 +339,294 @@ const questions = [
     "question": "6 X 12", 
     "answer": "72"
   },
+  {
+    "question": "7 X 1", 
+    "answer": "7"
+  },
+  {
+    "question": "7 X 2", 
+    "answer": "14"
+  },
+  {
+    "question": "7 X 3", 
+    "answer": "21"
+  },
+  {
+    "question": "7 X 4", 
+    "answer": "28"
+  },
+  {
+    "question": "7 X 5", 
+    "answer": "35"
+  },
+  {
+    "question": "7 X 6", 
+    "answer": "42"
+  },
+  {
+    "question": "7 X 7", 
+    "answer": "49"
+  },
+  {
+    "question": "7 X 8", 
+    "answer": "56"
+  },
+  {
+    "question": "7 X 9", 
+    "answer": "63"
+  },
+  {
+    "question": "7 X 10", 
+    "answer": "70"
+  },
+  {
+    "question": "7 X 11", 
+    "answer": "77"
+  },
+  {
+    "question": "7 X 12", 
+    "answer": "84"
+  },
+  {
+    "question": "8 X 1", 
+    "answer": "8"
+  },
+  {
+    "question": "8 X 2", 
+    "answer": "16"
+  },
+  {
+    "question": "8 X 3", 
+    "answer": "24"
+  },
+  {
+    "question": "8 X 4", 
+    "answer": "32"
+  },
+  {
+    "question": "8 X 5", 
+    "answer": "40"
+  },
+  {
+    "question": "8 X 6", 
+    "answer": "48"
+  },
+  {
+    "question": "8 X 7", 
+    "answer": "56"
+  },
+  {
+    "question": "8 X 8", 
+    "answer": "64"
+  },
+  {
+    "question": "8 X 9", 
+    "answer": "72"
+  },
+  {
+    "question": "8 X 10", 
+    "answer": "80"
+  },
+  {
+    "question": "8 X 11", 
+    "answer": "88"
+  },
+  {
+    "question": "8 X 12", 
+    "answer": "96"
+  },
+  {
+    "question": "9 X 1", 
+    "answer": "9"
+  },
+  {
+    "question": "9 X 2", 
+    "answer": "18"
+  },
+  {
+    "question": "9 X 3", 
+    "answer": "27"
+  },
+  {
+    "question": "9 X 4", 
+    "answer": "36"
+  },
+  {
+    "question": "9 X 5", 
+    "answer": "45"
+  },
+  {
+    "question": "9 X 6", 
+    "answer": "54"
+  },
+  {
+    "question": "9 X 7", 
+    "answer": "63"
+  },
+  {
+    "question": "9 X 8", 
+    "answer": "72"
+  },
+  {
+    "question": "9 X 9", 
+    "answer": "81"
+  },
+  {
+    "question": "9 X 10", 
+    "answer": "90"
+  },
+  {
+    "question": "9 X 11", 
+    "answer": "99"
+  },
+  {
+    "question": "9 X 12", 
+    "answer": "108"
+  },
+  {
+    "question": "10 X 1", 
+    "answer": "10"
+  },
+  {
+    "question": "10 X 2", 
+    "answer": "20"
+  },
+  {
+    "question": "10 X 3", 
+    "answer": "30"
+  },
+  {
+    "question": "10 X 4", 
+    "answer": "40"
+  },
+  {
+    "question": "10 X 5", 
+    "answer": "50"
+  },
+  {
+    "question": "10 X 6", 
+    "answer": "60"
+  },
+  {
+    "question": "10 X 7", 
+    "answer": "70"
+  },
+  {
+    "question": "10 X 8", 
+    "answer": "80"
+  },
+  {
+    "question": "10 X 9", 
+    "answer": "90"
+  },
+  {
+    "question": "10 X 10", 
+    "answer": "100"
+  },
+  {
+    "question": "10 X 11", 
+    "answer": "110"
+  },
+  {
+    "question": "10 X 12", 
+    "answer": "120"
+  },
+  {
+    "question": "11 X 1", 
+    "answer": "11"
+  },
+  {
+    "question": "11 X 2", 
+    "answer": "22"
+  },
+  {
+    "question": "11 X 3", 
+    "answer": "33"
+  },
+  {
+    "question": "11 X 4", 
+    "answer": "44"
+  },
+  {
+    "question": "11 X 5", 
+    "answer": "55"
+  },
+  {
+    "question": "11 X 6", 
+    "answer": "66"
+  },
+  {
+    "question": "11 X 7", 
+    "answer": "77"
+  },
+  {
+    "question": "11 X 8", 
+    "answer": "88"
+  },
+  {
+    "question": "11 X 9", 
+    "answer": "99"
+  },
+  {
+    "question": "11 X 10", 
+    "answer": "110"
+  },
+  {
+    "question": "11 X 11", 
+    "answer": "121"
+  },
+  {
+    "question": "11 X 12", 
+    "answer": "132"
+  },
+  {
+    "question": "12 X 1", 
+    "answer": "12"
+  },
+  {
+    "question": "12 X 2", 
+    "answer": "24"
+  },
+  {
+    "question": "12 X 3", 
+    "answer": "36"
+  },
+  {
+    "question": "12 X 4", 
+    "answer": "48"
+  },
+  {
+    "question": "12 X 5", 
+    "answer": "60"
+  },
+  {
+    "question": "12 X 6", 
+    "answer": "72"
+  },
+  {
+    "question": "12 X 7", 
+    "answer": "84"
+  },
+  {
+    "question": "12 X 8", 
+    "answer": "96"
+  },
+  {
+    "question": "12 X 9", 
+    "answer": "108"
+  },
+  {
+    "question": "12 X 10", 
+    "answer": "120"
+  },
+  {
+    "question": "12 X 11", 
+    "answer": "132"
+  },
+  {
+    "question": "12 X 12", 
+    "answer": "144"
+  },
 ]
 
 
