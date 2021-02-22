@@ -17,16 +17,18 @@ shuffleArray(questions);
 
 currentQuestion = 0;
 
-function getQuestion(question) {
-  questionEl.innerText = `${questions[currentQuestion]["question"]}`;
-  answerEl.innerText = `${questions[currentQuestion]["answer"]}`;
-  currentQuestion ++;
+function getQuestion() {
+  setTimeout(function() {
+    questionEl.innerText = `${questions[currentQuestion]["question"]}`;
+    answerEl.innerText = `${questions[currentQuestion]["answer"]}`;
+    currentQuestion ++;
+  }, 1000);
 }
 
 getQuestion();
 
 
-button.addEventListener("click", function(e) {
+button.addEventListener("click", function() {
   getQuestion(questions[currentQuestion]);
 });
 
