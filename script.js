@@ -1,6 +1,6 @@
 const card = document.querySelector(".card__inner");
-const question = document.getElementById("question")
-const answer = document.getElementById("answer");
+const questionEl = document.getElementById("question")
+const answerEl = document.getElementById("answer");
 const button = document.getElementById("nextCard");
 
 function shuffleArray(array) {
@@ -15,21 +15,19 @@ function shuffleArray(array) {
 
 shuffleArray(questions);
 
-function getQuestion() {
-  question.innerHTML = `<h2>${questions[0]["question"]}</h2>`;
-  answer.innerHTML = `<h3>${questions[0]["answer"]}</h3>;`
+currentQuestion = 0;
+
+function getQuestion(question) {
+  questionEl.innerText = `${questions[currentQuestion]["question"]}`;
+  answerEl.innerText = `${questions[currentQuestion]["answer"]}`;
+  currentQuestion ++;
 }
+
 getQuestion();
 
-function nextCard() {
-  for (let i = 1; i < questions.length; i++) {
-  question.innerHTML = `<h2>${questions[i]["question"]}</h2>`;
-  answer.innerHTML = `<h3>${questions[i]["answer"]}</h3>`;
-  }
-}
 
 button.addEventListener("click", function(e) {
-  nextCard();
+  getQuestion(questions[currentQuestion]);
 });
 
 card.addEventListener("click", function (e) {
