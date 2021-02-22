@@ -30,7 +30,7 @@ button.addEventListener("click", function(e) {
   getQuestion(questions[currentQuestion]);
 });
 
-card.addEventListener("click", function (e) {
+card.addEventListener("click", function(e) {
   card.classList.toggle('is-flipped');
 });
 
