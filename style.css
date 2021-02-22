@@ -19,9 +19,9 @@ body {
 }
 
 .card {
-  margin: 100px auto 0;
+  margin: 30px auto 0;
   width: 400px;
-  height: 600px;
+  height: 550px;
   perspective: 1000px;
 }
 
@@ -120,6 +120,7 @@ body {
   color: var(--dark);
   font-size: 40px;
   font-weight: 600;
+  margin-top: 20px;
   margin-bottom: 15px;
   text-align: center;
 }
