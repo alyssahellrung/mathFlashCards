@@ -75,7 +75,7 @@ body {
   background-image: linear-gradient(to bottom left, var(--primary) 10%, var(--secondary) 115%);
   color: var(--light);
   border: 0;
-  margin: 70px auto;
+  margin: 180px auto;
   display: block;
   padding: 12px 20px;
   font-size: 16px;
@@ -120,7 +120,7 @@ body {
   color: var(--dark);
   font-size: 40px;
   font-weight: 600;
-  margin-top: 20px;
+  margin-top: 30px;
   margin-bottom: 15px;
   text-align: center;
 }
