@@ -110,5 +110,125 @@ const questions = [
   {
     "question": "Burundi", 
     "answer": "Bujumbura"
+  },
+  {
+    "question": "Cabo Verde", 
+    "answer": "Praia"
+  },
+  {
+    "question": "Cambodia", 
+    "answer": "Phnom Penh"
+  },
+  {
+    "question": "Cameroon", 
+    "answer": "Yaounde"
+  },
+  {
+    "question": "Canada", 
+    "answer": "Ottawa"
+  },
+  {
+    "question": "Central African Republic", 
+    "answer": "Bangui"
+  },
+  {
+    "question": "Chad", 
+    "answer": "N'Djamena"
+  },
+  {
+    "question": "Chile", 
+    "answer": "Santiago"
+  },
+  {
+    "question": "China", 
+    "answer": "Beijing"
+  },
+  {
+    "question": "Colombia", 
+    "answer": "Bogota"
+  },
+  {
+    "question": "Comoros", 
+    "answer": "Moroni"
+  },
+  {
+    "question": "Democratic Republic of the Congo", 
+    "answer": "Kinshasa"
+  },
+  {
+    "question": "Republic of the Congo", 
+    "answer": "Brazzaville"
+  },
+  {
+    "question": "Costa Rica", 
+    "answer": "San Jose"
+  },
+  {
+    "question": "Cote d'Ivoire", 
+    "answer": "Yamoussoukro"
+  },
+  {
+    "question": "Croatia", 
+    "answer": "Zagreb"
+  },
+  {
+    "question": "Cuba", 
+    "answer": "Havana"
+  },
+  {
+    "question": "Cyprus", 
+    "answer": "Nicosia"
+  },
+  {
+    "question": "Czechia", 
+    "answer": "Prague"
+  },
+  {
+    "question": "Denmark", 
+    "answer": "Copenhagen"
+  },
+  {
+    "question": "Djibouti", 
+    "answer": "Djibouti (City)"
+  },
+  {
+    "question": "Dominica", 
+    "answer": "Roseau"
+  },
+  {
+    "question": "Dominican Republic", 
+    "answer": "Santo Domingo"
+  },
+  {
+    "question": "Ecuador", 
+    "answer": "Quito"
+  },
+  {
+    "question": "Egypt", 
+    "answer": "Cairo"
+  },
+  {
+    "question": "El Salvador", 
+    "answer": "San Salvador"
+  },
+  {
+    "question": "Equatorial Guinea", 
+    "answer": "Malabo"
+  },
+  {
+    "question": "Eritrea", 
+    "answer": "Asmara"
+  },
+  {
+    "question": "Estonia", 
+    "answer": "Tallinn"
+  },
+  {
+    "question": "Eswatini", 
+    "answer": "Mbabane"
+  },
+  {
+    "question": "Ethiopia", 
+    "answer": "Addis Ababa"
   }
 ]
