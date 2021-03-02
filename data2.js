@@ -230,5 +230,117 @@ const questions = [
   {
     "question": "Ethiopia", 
     "answer": "Addis Ababa"
+  },
+  {
+    "question": "Fiji", 
+    "answer": "Suva"
+  },
+  {
+    "question": "Finland", 
+    "answer": "Helsinki"
+  },
+  {
+    "question": "France", 
+    "answer": "Paris"
+  },
+  {
+    "question": "Gabon", 
+    "answer": "Libreville"
+  },
+  {
+    "question": "The Gambia", 
+    "answer": "Banjul"
+  },
+  {
+    "question": "Georgia", 
+    "answer": "Tbilisi"
+  },
+  {
+    "question": "Germany", 
+    "answer": "Berlin"
+  },
+  {
+    "question": "Ghana", 
+    "answer": "Accra"
+  },
+  {
+    "question": "Greece", 
+    "answer": "Athens"
+  },
+  {
+    "question": "Grenada", 
+    "answer": "St. George's"
+  },
+  {
+    "question": "Guatemala", 
+    "answer": "Guatemala City"
+  },
+  {
+    "question": "Guinea", 
+    "answer": "Conakry"
+  },
+  {
+    "question": "Guinea-Bissau", 
+    "answer": "Bissau"
+  },
+  {
+    "question": "Guyana", 
+    "answer": "Georgetown"
+  },
+  {
+    "question": "Haiti", 
+    "answer": "Port-au-Prince"
+  },
+  {
+    "question": "Honduras", 
+    "answer": "Tegucigalpa"
+  },
+  {
+    "question": "Hungary", 
+    "answer": "Budapest"
+  },
+  {
+    "question": "Iceland", 
+    "answer": "Reykjavik"
+  },
+  {
+    "question": "India", 
+    "answer": "New Delhi"
+  },
+  {
+    "question": "Indonesia", 
+    "answer": "Jakarta"
+  },
+  {
+    "question": "Iran", 
+    "answer": "Tehran"
+  },
+  {
+    "question": "Iraq", 
+    "answer": "Baghdad"
+  },
+  {
+    "question": "Ireland", 
+    "answer": "Dublin"
+  },
+  {
+    "question": "Israel", 
+    "answer": "Jerusalem"
+  },
+  {
+    "question": "Italy", 
+    "answer": "Rome"
+  },
+  {
+    "question": "Jamaica", 
+    "answer": "Kingston"
+  },
+  {
+    "question": "Japan", 
+    "answer": "Tokyo"
+  },
+  {
+    "question": "Jordan", 
+    "answer": "Amman"
   }
 ]
