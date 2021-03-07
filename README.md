@@ -43,6 +43,5 @@ https://alyssahellrung.github.io/mathFlashCards
 ## Link to GitHub Repo      
 https://github.com/alyssahellrung/mathFlashCards
 
-## Future Development Ideas     
---Because the math problems come from a data file, this code is extremely reusable. One could add more data files and switch between them. I want to try this with French vocabulary words, but you could use the cards for anything.  
+## Future Development Ideas        
 --Improve appearance on very small screens (not very responsive yet on tiny phones).
